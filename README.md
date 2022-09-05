@@ -1,2 +1,3 @@
 # react
-React play ground
+## React play ground
+Play ground for mucking about with React concepts!
